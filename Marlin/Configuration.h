@@ -224,9 +224,9 @@ Here are some standard links for getting your machine calibrated:
   //#define  DEFAULT_Kd 440
 
   // E3D v6 (PT100, 30W)
-  #define  DEFAULT_Kp 27.08
-  #define  DEFAULT_Ki 02.07
-  #define  DEFAULT_Kd 88.73
+  #define  DEFAULT_Kp 29.20
+  #define  DEFAULT_Ki 04.73
+  #define  DEFAULT_Kd 45.33
 
 #endif // PIDTEMP
 
