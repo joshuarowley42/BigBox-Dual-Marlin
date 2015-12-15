@@ -1,4 +1,7 @@
-# Marlin 3D Printer Firmware
+# Marlin 3D Printer Firmware - Modified for BigBox
+
+__This is the BigBox maintained version of Marlin__
+
 <img align="top" width=175 src="Documentation/Logo/Marlin%20Logo%20GitHub.png" />
  Additional documentation can be found in [our wiki](https://github.com/MarlinFirmware/Marlin/wiki/Main-Page).
 
